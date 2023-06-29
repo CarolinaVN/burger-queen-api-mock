@@ -102,6 +102,18 @@
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "admin",
       "id": 2
+    },
+    {
+      "email": "charlo@systers.xyz",
+      "password": "$2a$10$jew3s49I.uZtaMYM0Gbq2uj7n.ottheWMWIKn.qZgS/53ufmfodZW",
+      "role": "chef",
+      "id": 3
+    },
+    {
+      "email": "yupi@systers.xyz",
+      "password": "$2a$10$lL.KahcCDcfQVjfNoLedxuFGCHTE4YPayyVoYojV2aVXb1GUEaIfa",
+      "role": "waiter",
+      "id": 4
     }
   ]
 }
